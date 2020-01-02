@@ -1,0 +1,12 @@
+{
+    "meta-name" : "bst-001.service-informatique.bzh",
+    "meta-desc" : "Datacenter number 1 at Brest (29200) used by Service Informatique BZH",
+    "desc":
+        {
+            "system" :
+            {
+                "name" : "fbx-001"
+                "ipv4-lan-001" :
+            }
+        }
+}
